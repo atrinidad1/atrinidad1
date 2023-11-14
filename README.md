@@ -1,4 +1,4 @@
-<h1 align="center">Hola,👋 soy Adán Trinidad</h1>
+<h1 align="center">Hola,👋 soy Adán </h1>
 <h3 align="center">¡Hola! Soy un estudiante de análisis de sistemas apasionado por la tecnología y el desarrollo de software. Me encanta aprender sobre nuevos lenguajes de programación, herramientas y frameworks, y aplicarlos en proyectos prácticos que me ayuden a consolidar mis habilidades. Tengo experiencia en el desarrollo de aplicaciones web, tanto front-end como back-end, utilizando tecnologías como HTML, CSS, JavaScript, React, Node.js y MongoDB. También he trabajado con bases de datos relacionales, como MySQL, SQLServer y PostgreSQL, y he utilizado lenguajes de programación como Java y Python. Como estudiante de análisis de sistemas, estoy siempre interesado en aprender sobre nuevas tendencias y tecnologías en el campo de la informática. Estoy seguro de que con mi pasión por la tecnología y mi capacidad para aprender rápidamente, puedo contribuir significativamente a cualquier proyecto en el que participe.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adan0112&label=Profile%20views&color=0e75b6&style=flat" alt="adan0112" /> </p>
