@@ -28,7 +28,7 @@
 ## 🏆 Logros y Trofeos
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adan0112&theme=algolia&margin-w=10&margin-h=10" alt="Profile Trophy" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atrinidad1&theme=algolia&margin-w=10&margin-h=10" alt="atrinidad1" /></a>
 </p>
 
 ---
