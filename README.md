@@ -1,22 +1,72 @@
-<h1 align="center">Hola,👋 soy Adán </h1>
-<h3 align="center">¡Hola! Soy un estudiante de análisis de sistemas apasionado por la tecnología y el desarrollo de software. Me encanta aprender sobre nuevos lenguajes de programación, herramientas y frameworks, y aplicarlos en proyectos prácticos que me ayuden a consolidar mis habilidades. Tengo experiencia en el desarrollo de aplicaciones web, tanto front-end como back-end, utilizando tecnologías como HTML, CSS, JavaScript, React, Node.js y MongoDB. También he trabajado con bases de datos relacionales, como MySQL, SQLServer y PostgreSQL, y he utilizado lenguajes de programación como Java y Python. Como estudiante de análisis de sistemas, estoy siempre interesado en aprender sobre nuevas tendencias y tecnologías en el campo de la informática. Estoy seguro de que con mi pasión por la tecnología y mi capacidad para aprender rápidamente, puedo contribuir significativamente a cualquier proyecto en el que participe.</h3>
+<!-- Modern Profile README for Adán Trinidad -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adan0112&label=Profile%20views&color=0e75b6&style=flat" alt="adan0112" /> </p>
+<h1 align="center">👋 Hola, soy Adán</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adan0112" alt="adan0112" /></a> </p>
-
-- 📫 Como llegar a mi **adan.tt3@gmail.com**
-
-<h3 align="left">Conectate conmigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adán-trinidad-57334bb5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adán-trinidad-57334bb5" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adan0112&label=Profile%20views&color=0e75b6&style=flat" alt="adan0112" />
 </p>
 
-<h3 align="left">Idiomas y Herramientas:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <b>Estudiante de Análisis de Sistemas | Apasionado por la tecnología y el desarrollo de software</b><br>
+  Siempre aprendiendo sobre nuevos lenguajes, herramientas y frameworks.<br>
+  📱 Experiencia en desarrollo web (Front-end & Back-end), aplicaciones móviles y bases de datos.<br>
+  🚀 Motivado por crear soluciones que contribuyan y generen impacto.<br>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adan0112&show_icons=true&locale=en&layout=compact" alt="adan0112" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adan0112&show_icons=true&locale=en" alt="adan0112" /></p>
+## 🧑‍💻 Sobre mí
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adan0112&" alt="adan0112" /></p>
+- 🎯 <b>Me especializo en:</b> Desarrollo de aplicaciones web, Front-End y Back-End.
+- 🖥️ <b>Tecnologías:</b> HTML, CSS, JavaScript, React, Node.js, MongoDB, MySQL, SQLServer, PostgreSQL, Java, Python.
+- 📚 <b>Actualmente aprendiendo:</b> Nuevas tendencias en informática, frameworks modernos y automatización.
+- 🤝 <b>Colaborativo:</b> Siempre abierto a trabajar en equipo y a aportar en proyectos innovadores.
+- 🌱 <b>Mi objetivo:</b> Consolidar habilidades y contribuir significativamente en cada proyecto.
+
+---
+
+## 🏆 Logros y Trofeos
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adan0112&theme=algolia&margin-w=10&margin-h=10" alt="Profile Trophy" /></a>
+</p>
+
+---
+
+## 📫 Contacto
+
+- 📧 **Correo:** [adan.tt3@gmail.com](mailto:adan.tt3@gmail.com)
+
+---
+
+## 🌐 Conecta conmigo
+
+<p align="left">
+  <a href="https://linkedin.com/in/adán-trinidad-57334bb5" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,postgres,java,python,bootstrap,git,linux,vue,angular,azure,heroku,codeigniter,django,firebase,photoshop,illustrator,selenium,sqlite" />
+</p>
+
+---
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adan0112&show_icons=true&theme=radical" alt="adan0112 stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adan0112&show_icons=true&locale=en&layout=compact&theme=radical" alt="adan0112 top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adan0112&theme=radical" alt="adan0112 github streak" />
+</p>
+
+---
+
+<p align="center">
+  <b>¡Gracias por visitar mi perfil! 😄</b>
+</p>
