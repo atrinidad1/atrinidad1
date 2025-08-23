@@ -3,7 +3,7 @@
 <h1 align="center">👋 Hola, soy Adán</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adan0112&label=Profile%20views&color=0e75b6&style=flat" alt="adan0112" />
+  <img src="https://komarev.com/ghpvc/?username=atrinidad1&label=Profile%20views&color=0e75b6&style=flat" alt="atrinidad1" />
 </p>
 
 <p align="center">
@@ -60,9 +60,9 @@
 ## 📈 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adan0112&show_icons=true&theme=radical" alt="adan0112 stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adan0112&show_icons=true&locale=en&layout=compact&theme=radical" alt="adan0112 top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adan0112&theme=radical" alt="adan0112 github streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atrinidad1&show_icons=true&theme=radical" alt="atrinidad1 stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atrinidad1&show_icons=true&locale=en&layout=compact&theme=radical" alt="atrinidad1 top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atrinidad1&theme=radical" alt="atrinidad1 github streak" />
 </p>
 
 ---
