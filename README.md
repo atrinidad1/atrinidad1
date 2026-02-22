@@ -1,72 +1,113 @@
 <!-- Modern Profile README for Adán Trinidad -->
 
-<h1 align="center">👋 Hola, soy Adán</h1>
+<div align="center">
+  
+# 👋 ¡Hola! Soy **Adán Trinidad**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atrinidad1&label=Profile%20views&color=0e75b6&style=flat" alt="atrinidad1" />
-</p>
+> *Desarrollador Full Stack | Estudiante de Análisis de Sistemas | Apasionado por crear soluciones innovadoras*
 
-<p align="center">
-  <b>Estudiante de Análisis de Sistemas | Apasionado por la tecnología y el desarrollo de software</b><br>
-  Siempre aprendiendo sobre nuevos lenguajes, herramientas y frameworks.<br>
-  📱 Experiencia en desarrollo web (Front-end & Back-end), aplicaciones móviles y bases de datos.<br>
-  🚀 Motivado por crear soluciones que contribuyan y generen impacto.<br>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=atrinidad1&label=Visitas&color=0e75b6&style=flat-square)](https://github.com/atrinidad1)
+[![GitHub followers](https://img.shields.io/github/followers/atrinidad1?style=flat-square&label=Seguidores)](https://github.com/atrinidad1)
+
+</div>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🎯 Sobre mí
 
-- 🎯 <b>Me especializo en:</b> Desarrollo de aplicaciones web, Front-End y Back-End.
-- 🖥️ <b>Tecnologías:</b> HTML, CSS, JavaScript, React, Node.js, MongoDB, MySQL, SQLServer, PostgreSQL, Java, Python.
-- 📚 <b>Actualmente aprendiendo:</b> Nuevas tendencias en informática, frameworks modernos y automatización.
-- 🤝 <b>Colaborativo:</b> Siempre abierto a trabajar en equipo y a aportar en proyectos innovadores.
-- 🌱 <b>Mi objetivo:</b> Consolidar habilidades y contribuir significativamente en cada proyecto.
+Soy un desarrollador entusiasta que disfruta aprender constantemente y crear aplicaciones web funcionales. Me especializo en **desarrollo Full Stack** con experiencia en tecnologías modernas.
 
----
-
-## 🏆 Logros y Trofeos
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atrinidad1&theme=algolia&margin-w=10&margin-h=10" alt="atrinidad1" /></a>
-</p>
+- 🚀 Especializado en **desarrollo web** (Front-End & Back-End)
+- 💻 Apasionado por resolver problemas con código limpio y escalable
+- 📚 Siempre en búsqueda de nuevas tendencias y frameworks
+- 🤝 Colaborativo y orientado al trabajo en equipo
+- 🌱 Objetivo: crear impacto a través de la tecnología
 
 ---
 
-## 📫 Contacto
+## 🛠️ Tech Stack
 
-- 📧 **Correo:** [adan.tt3@gmail.com](mailto:adan.tt3@gmail.com)
+<div align="center">
+
+### 💻 Lenguajes de Programación
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🔧 Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
+
+### 🚀 DevOps & Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### 🎭 Diseño
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+</div>
 
 ---
 
-## 🌐 Conecta conmigo
+## 📊 Estadísticas de GitHub
 
-<p align="left">
-  <a href="https://linkedin.com/in/adán-trinidad-57334bb5" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atrinidad1&show_icons=true&theme=tokyonight&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=atrinidad1&layout=compact&theme=tokyonight&hide_border=true)
 
-## 🛠️ Tecnologías y Herramientas
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atrinidad1&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,postgres,java,python,bootstrap,git,linux,vue,angular,azure,heroku,codeigniter,django,firebase,photoshop,illustrator,selenium,sqlite" />
-</p>
+</div>
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 🏆 Logros
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atrinidad1&show_icons=true&theme=radical" alt="atrinidad1 stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atrinidad1&show_icons=true&locale=en&layout=compact&theme=radical" alt="atrinidad1 top languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atrinidad1&theme=radical" alt="atrinidad1 github streak" />
-</p>
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=atrinidad1&theme=tokyonight&margin-w=15&margin-h=15)](https://github.com/atrinidad1)
+
+</div>
 
 ---
 
-<p align="center">
-  <b>¡Gracias por visitar mi perfil! 😄</b>
-</p>
+## 📞 Conecta conmigo
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adan.tt3@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adán-trinidad-57334bb5)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atrinidad1)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 *"El código es poesía escrita en lógica"*
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning)
+
+**¡Gracias por visitar mi perfil! 😊**
+
+</div>
