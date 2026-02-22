@@ -1,49 +1,44 @@
-# Proyecto Futurista 🚀
+# Adán Trinidad
 
-Bienvenidos a nuestro proyecto que está diseñado para revolucionar la forma en que interactuamos con la tecnología. ¡Únete a nosotros en este viaje hacia el futuro!
+## Perfil Profesional
 
----
+Soy un **Desarrollador Full Stack** apasionado por crear soluciones innovadoras que transforman ideas en productos de alta calidad. Poseo una sólida formación académica y experiencia práctica en el desarrollo de aplicaciones web escalables y eficientes.
 
-## 💻 Características Principales
+## Educación
+- **Licenciatura en Ingeniería en Sistemas Computacionales**  
+  Universidad Nacional Autónoma de México (UNAM)  
+  Graduación: 2024
 
-- **Interfaz moderna y amigable**
-- **Rendimiento optimizado**
-- **Funcionalidades innovadoras**
+## Experiencia
+- **Desarrollador Full Stack**  
+  XYZ Tech Solutions  
+  *Junio 2024 - Presente*  
+  - Desarrollo de aplicaciones web utilizando tecnologías modernas como React, Node.js y MongoDB.
+  - Colaboración en un equipo ágil para mejorar la eficiencia del desarrollo y la calidad del software.
 
----
+- **Practicante de Desarrollo de Software**  
+  ABC Innovaciones  
+  *Enero 2023 - Mayo 2024*  
+  - Participación en la creación y mantenimiento de aplicaciones internas y comerciales.
+  - Implementación de mejoras que redujeron el tiempo de respuesta del sistema en un 30%.
 
-## 📊 Estadísticas del Proyecto
+## Tecnología Stack
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express
+- **Base de Datos:** MongoDB, SQL
+- **Otras Herramientas:** Git, Docker, AWS
 
-| Métrica       | Valor    |
-| --------------| -------- |
-| Líneas de Código | 1200     |
-| Contribuidores  | 10       |
-| Estrellas      | 150      |
-| Forks         | 30       |
+## Logros
+- Certificación en **Desarrollo Web Full Stack** por Coursera.
+- Reconocido como **Mejor Práctica en Innovación** en el Hackathon de la UNAM 2023.
 
----
+## Proyectos
+- **Todo App**: Aplicación web de gestión de tareas construida con React y Node.js, que permite a los usuarios organizar sus tareas de forma eficiente.
+- **Portafolio Personal**: Sitio web personal diseñado para mostrar mis proyectos y habilidades, implementado con tecnologías modernas.
 
-## 🎖️ Logros
+## Contacto
+- **Email:** adan.trinidad@example.com  
+- **LinkedIn:** [linkedin.com/in/adantrinidad](https://linkedin.com/in/adantrinidad)
+- **GitHub:** [github.com/atrinidad1](https://github.com/atrinidad1)
 
-- **Proyecto destacado en 2025**
-- **Colaboración con empresas líderes**
-
----
-
-## 📢 Llamado a la Acción
-
-¡No esperes más! Contribuye al proyecto, prueba la última versión y deja tus comentarios:
-
-[Contribuir Ahora](https://github.com/atrinidad1/atrinidad1)
-
----
-
-## 📫 Contacto
-
-Si tienes preguntas o sugerencias, no dudes en ponerte en contacto:
-- **Correo:** contacto@ejemplo.com
-- **Twitter:** [@TuUsuario](https://twitter.com/TuUsuario)
-
----
-
-¡Gracias por tu interés! 🚀
+¡Estoy siempre dispuesto a nuevas oportunidades y colaboraciones!
