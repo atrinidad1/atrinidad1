@@ -1,44 +1,26 @@
 # Adán Trinidad
 
-## Perfil Profesional
-
-Soy un **Desarrollador Full Stack** apasionado por crear soluciones innovadoras que transforman ideas en productos de alta calidad. Poseo una sólida formación académica y experiencia práctica en el desarrollo de aplicaciones web escalables y eficientes.
-
-## Educación
-- **Licenciatura en Ingeniería en Sistemas Computacionales**  
-  Universidad Nacional Autónoma de México (UNAM)  
-  Graduación: 2024
+![Programming Languages](https://img.shields.io/badge/Programming%20Languages-JavaScript-blue?style=plastic)
+![Databases](https://img.shields.io/badge/Databases-MySQL-orange?style=plastic)
+![Frameworks](https://img.shields.io/badge/Frameworks-React-green?style=plastic)
+![Tools](https://img.shields.io/badge/Tools-Docker-lightgrey?style=plastic)
 
 ## Experiencia
-- **Desarrollador Full Stack**  
-  XYZ Tech Solutions  
-  *Junio 2024 - Presente*  
-  - Desarrollo de aplicaciones web utilizando tecnologías modernas como React, Node.js y MongoDB.
-  - Colaboración en un equipo ágil para mejorar la eficiencia del desarrollo y la calidad del software.
+Soy un desarrollador apasionado con más de 5 años de experiencia en desarrollo de software, trabajando en proyectos innovadores que incluyen aplicaciones web y tecnologías emergentes.
 
-- **Practicante de Desarrollo de Software**  
-  ABC Innovaciones  
-  *Enero 2023 - Mayo 2024*  
-  - Participación en la creación y mantenimiento de aplicaciones internas y comerciales.
-  - Implementación de mejoras que redujeron el tiempo de respuesta del sistema en un 30%.
+## Educación
+- **Ingeniería de Sistemas** - Universidad de Tecnología
+- **Certificación en Desarrollo Web** - Instituto de Tecnología Avanzada
 
-## Tecnología Stack
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Express
-- **Base de Datos:** MongoDB, SQL
-- **Otras Herramientas:** Git, Docker, AWS
+## Proyectos Destacados
+- **Aplicación de Gestión de Tareas**: Creé una aplicación basada en React que permite a los usuarios gestionar sus tareas diarias de forma eficiente.
+- **Sistema de E-commerce**: Desarrollé un sistema de comercio electrónico utilizando Node.js y MySQL que funciona como solución integral para pequeñas empresas.
 
 ## Logros
-- Certificación en **Desarrollo Web Full Stack** por Coursera.
-- Reconocido como **Mejor Práctica en Innovación** en el Hackathon de la UNAM 2023.
-
-## Proyectos
-- **Todo App**: Aplicación web de gestión de tareas construida con React y Node.js, que permite a los usuarios organizar sus tareas de forma eficiente.
-- **Portafolio Personal**: Sitio web personal diseñado para mostrar mis proyectos y habilidades, implementado con tecnologías modernas.
+- **Participación en Hackathons**: Ganador del primer lugar en el Hackathon Nacional 2023.
+- **Contribuciones en Open Source**: Contribuí a múltiples proyectos de código abierto en GitHub.
 
 ## Contacto
-- **Email:** adan.trinidad@example.com  
-- **LinkedIn:** [linkedin.com/in/adantrinidad](https://linkedin.com/in/adantrinidad)
-- **GitHub:** [github.com/atrinidad1](https://github.com/atrinidad1)
+[LinkedIn](https://www.linkedin.com/in/adantrinidad) | [GitHub](https://github.com/atrinidad1)
 
-¡Estoy siempre dispuesto a nuevas oportunidades y colaboraciones!
+![Banner Animado](https://media.giphy.com/media/JIXg5w7ONfJki/giphy.gif)
