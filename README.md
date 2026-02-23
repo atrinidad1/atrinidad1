@@ -1,9 +1,9 @@
 <h1 align="center">Adán Trinidad</h1>
 
 <p align="center">
-Full Stack Developer | Systems Engineering Background  
-<br>
-Building scalable, modern and efficient digital solutions.
+  Desarrollador Full Stack | Ingeniería de Sistemas
+  <br>
+  Construyendo soluciones digitales modernas, escalables y eficientes.
 </p>
 
 <p align="center">
@@ -12,60 +12,65 @@ Building scalable, modern and efficient digital solutions.
   <img src="https://img.shields.io/github/stars/atrinidad1?style=flat-square" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-Developer with 5+ years of experience building web applications and backend systems.  
-Focused on performance, scalability and clean architecture.
-
-- Scalable system design
-- RESTful API development
-- Database optimization
-- Frontend performance tuning
-- Clean code & best practices
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" />
+</p>
 
 ---
 
-## 🧠 Tech Stack
+## 👨‍💻 Sobre mí
+
+Desarrollador con más de **5 años de experiencia** en desarrollo de software, enfocado en aplicaciones web y arquitectura backend.
+
+Me interesa construir soluciones con:
+
+- Arquitectura limpia y escalable  
+- Buenas prácticas de desarrollo  
+- Optimización de rendimiento  
+- Código mantenible y estructurado  
+- Enfoque en impacto real  
+
+---
+
+## 🧠 Stack Tecnológico
 
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,vue" />
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,django" />
 
-### Databases
+### Bases de Datos
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 
-### DevOps & Tools
+### DevOps & Herramientas
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
 
 </div>
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Proyectos Destacados
 
-### Task Management App
-Modern React-based application for productivity optimization.
+### 📝 Aplicación de Gestión de Tareas
+Aplicación desarrollada con React para mejorar productividad y organización personal.
 
-### E-commerce Platform
-Full-stack solution using Node.js and MySQL for small business operations.
-
----
-
-## 🏆 Achievements
-
-- 🥇 1st Place – National Hackathon 2023
-- 🌍 Active Open Source Contributor
-- 🚀 Continuous GitHub Contributions
+### 🛒 Plataforma E-commerce
+Solución Full Stack con Node.js y MySQL para gestión de ventas e inventarios en pequeñas empresas.
 
 ---
 
-## 📊 GitHub Analytics
+## 🏆 Logros
+
+- 🥇 1er lugar – Hackathon Nacional 2023
+- 🌍 Contribuciones activas en proyectos Open Source
+- 🚀 Participación constante en iniciativas colaborativas
+
+---
+
+## 📊 Métricas y Actividad
 
 <div align="center">
 
@@ -75,19 +80,36 @@ Full-stack solution using Node.js and MySQL for small business operations.
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atrinidad1&theme=default" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=atrinidad1&theme=default" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atrinidad1&theme=minimal" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=atrinidad1&theme=flat&no-frame=true&margin-w=10" />
 
 </div>
 
 ---
 
-## 🎯 Professional Vision
+## 📍 Actualmente
 
-To contribute to high-impact technology projects, building efficient and scalable systems that create real-world value.
+- Mejorando arquitectura de aplicaciones web
+- Profundizando en optimización backend
+- Explorando buenas prácticas en DevOps
+- Contribuyendo activamente en GitHub
 
 ---
 
-## 📬 Contact
+## 🎯 Visión Profesional
+
+Desarrollar sistemas robustos, eficientes y escalables que generen valor real en entornos empresariales y tecnológicos.
+
+---
+
+## 📬 Contacto Profesional
 
 [LinkedIn](https://www.linkedin.com/in/adantrinidad)  
 [GitHub](https://github.com/atrinidad1)
@@ -95,5 +117,7 @@ To contribute to high-impact technology projects, building efficient and scalabl
 ---
 
 <p align="center">
-"Well-designed software is invisible — its impact is not."
+"El software bien diseñado es invisible, pero su impacto no."
+<br>
+Siempre abierto a colaboraciones y nuevos desafíos.
 </p>
