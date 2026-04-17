@@ -75,7 +75,6 @@ Me interesa construir soluciones con:
 
 | | |
 |---|---|
-| 🥇 | **1er lugar — Hackathon Nacional 2023** |
 | 🌍 | **Contribuciones activas en proyectos Open Source** |
 | 🚀 | **Participación constante en iniciativas colaborativas** |
 
