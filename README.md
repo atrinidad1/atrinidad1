@@ -1,24 +1,123 @@
-# Perfil Profesional
+<h1 align="center">Adán Trinidad</h1>
 
-Soy un desarrollador de software apasionado con más de 5 a��os de experiencia en la industria tecnológica. Me especializo en el desarrollo de aplicaciones web y móviles, utilizando un conjunto diverso de tecnologías.
+<p align="center">
+  Desarrollador Full Stack | Ingeniería de Sistemas
+  <br>
+  Construyendo soluciones digitales modernas, escalables y eficientes.
+</p>
 
-## Stack Técnico
-- **Lenguajes de programación:** JavaScript, Python, Java
-- **Frameworks:** React, Node.js, Django
-- **Base de datos:** MongoDB, MySQL
-- **Herramientas:** Docker, Git, Jenkins
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atrinidad1&style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/followers/atrinidad1?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/atrinidad1?style=flat-square" />
+</p>
 
-## Proyectos
-1. **Aplicación de Gestión de Tareas:** Una aplicación web que ayuda a los usuarios a gestionar sus tareas y compromisos diarios.
-2. **Sistema de Reservas:** Desarrollado para un pequeño negocio, permite a los clientes realizar reservas en línea.
-3. **Portal de E-learning:** Plataforma para la formación en línea que ofrece cursos interactivos.
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250" />
+</p>
 
-## Logros
-- Certificación en Desarrollo Web Full Stack.
-- Reconocido como Empleado del Mes en mi anterior empresa por mi contribución al tiempo de entrega del proyecto.
-- Contribuciones honorarias a proyectos de código abierto.
+---
 
-## Contacto
-- **Correo Electrónico:** atrinidad1@example.com
-- **LinkedIn:** [linkedin.com/in/atrinidad1](https://linkedin.com/in/atrinidad1)
-- **GitHub:** [github.com/atrinidad1](https://github.com/atrinidad1)
+## 👨‍💻 Sobre mí
+
+Desarrollador con más de **5 años de experiencia** en desarrollo de software, enfocado en aplicaciones web y arquitectura backend.
+
+Me interesa construir soluciones con:
+
+- Arquitectura limpia y escalable  
+- Buenas prácticas de desarrollo  
+- Optimización de rendimiento  
+- Código mantenible y estructurado  
+- Enfoque en impacto real  
+
+---
+
+## 🧠 Stack Tecnológico
+
+<div align="center">
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,vue" />
+
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,django" />
+
+### Bases de Datos
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+
+### DevOps & Herramientas
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+
+</div>
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 📝 Aplicación de Gestión de Tareas
+Aplicación desarrollada con React para mejorar productividad y organización personal.
+
+### 🛒 Plataforma E-commerce
+Solución Full Stack con Node.js y MySQL para gestión de ventas e inventarios en pequeñas empresas.
+
+---
+
+## 🏆 Logros
+
+- 🥇 1er lugar – Hackathon Nacional 2023
+- 🌍 Contribuciones activas en proyectos Open Source
+- 🚀 Participación constante en iniciativas colaborativas
+
+---
+
+## 📊 Métricas y Actividad
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=atrinidad1&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atrinidad1&layout=compact&theme=default" />
+
+<br>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=atrinidad1&theme=default" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atrinidad1&theme=minimal" />
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=atrinidad1&theme=flat&no-frame=true&margin-w=10" />
+
+</div>
+
+---
+
+## 📍 Actualmente
+
+- Mejorando arquitectura de aplicaciones web
+- Profundizando en optimización backend
+- Explorando buenas prácticas en DevOps
+- Contribuyendo activamente en GitHub
+
+---
+
+## 🎯 Visión Profesional
+
+Desarrollar sistemas robustos, eficientes y escalables que generen valor real en entornos empresariales y tecnológicos.
+
+---
+
+## 📬 Contacto Profesional
+
+[LinkedIn](https://www.linkedin.com/in/adantrinidad)  
+[GitHub](https://github.com/atrinidad1)
+
+---
+
+<p align="center">
+"El software bien diseñado es invisible, pero su impacto no."
+<br>
+Siempre abierto a colaboraciones y nuevos desafíos.
+</p>
